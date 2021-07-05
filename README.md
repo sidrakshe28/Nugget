@@ -1,4 +1,4 @@
-# Major-project-Sem-7
+
 
 <p align="center">
     <img src="./Images/1.png" alt="nuggets" width="280px">
